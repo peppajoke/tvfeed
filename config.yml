@@ -1,0 +1,11 @@
+tasks:
+  tv:
+    rss: https://iptorrents.com/t.rss?u=555980;tp=50a8a211519790951eac776f80fbd016;22;78;download
+    series:
+      - last week tonight
+      - curb your enthusiasm
+      - rick and morty
+      - made for love
+      - 
+    quality: 480p+
+    download: torrents

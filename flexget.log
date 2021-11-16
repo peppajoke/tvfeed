@@ -1,0 +1,133 @@
+2021-11-15 19:32:04 VERBOSE  manager                       Creating new database /Users/jackbauerle/code/tvfeed/db-config.sqlite - DO NOT INTERRUPT ...
+2021-11-15 19:32:04 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:32:04 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:32:04 VERBOSE  details       tv              Summary - Accepted: 0 (Rejected: 0 Undecided: 100 Failed: 0)
+2021-11-15 19:33:20 CRITICAL manager                       [/tasks/tv/download] `/torrents` does not exist
+2021-11-15 19:33:20 CRITICAL manager                       Failed to load config file: Did not pass schema validation.
+2021-11-15 19:33:27 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:33:27 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:33:28 VERBOSE  details       tv              Summary - Accepted: 0 (Rejected: 0 Undecided: 100 Failed: 0)
+2021-11-15 19:34:10 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:34:11 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:34:11 INFO     series.db     tv              identified_by has locked in to type `ep` for only connect
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E13 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E14 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E15 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E16 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E18 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E17 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E09 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E10 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E11 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E12 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E08 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E07 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E01 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E02 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E03 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E04 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E06 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 VERBOSE  task          tv              ACCEPTED: `Only Connect S17E05 480p x264-mSD` by series plugin because choosing first acceptable match
+2021-11-15 19:34:11 INFO     download      tv              Downloading: Only Connect S17E13 480p x264-mSD
+2021-11-15 19:34:11 INFO     download      tv              Downloading: Only Connect S17E14 480p x264-mSD
+2021-11-15 19:34:11 INFO     download      tv              Downloading: Only Connect S17E15 480p x264-mSD
+2021-11-15 19:34:11 INFO     download      tv              Downloading: Only Connect S17E16 480p x264-mSD
+2021-11-15 19:34:12 INFO     download      tv              Downloading: Only Connect S17E18 480p x264-mSD
+2021-11-15 19:34:12 INFO     download      tv              Downloading: Only Connect S17E17 480p x264-mSD
+2021-11-15 19:34:12 INFO     download      tv              Downloading: Only Connect S17E09 480p x264-mSD
+2021-11-15 19:34:12 INFO     download      tv              Downloading: Only Connect S17E10 480p x264-mSD
+2021-11-15 19:34:13 INFO     download      tv              Downloading: Only Connect S17E11 480p x264-mSD
+2021-11-15 19:34:14 INFO     download      tv              Downloading: Only Connect S17E12 480p x264-mSD
+2021-11-15 19:34:14 INFO     download      tv              Downloading: Only Connect S17E08 480p x264-mSD
+2021-11-15 19:34:14 INFO     download      tv              Downloading: Only Connect S17E07 480p x264-mSD
+2021-11-15 19:34:14 INFO     download      tv              Downloading: Only Connect S17E01 480p x264-mSD
+2021-11-15 19:34:14 INFO     download      tv              Downloading: Only Connect S17E02 480p x264-mSD
+2021-11-15 19:34:14 INFO     download      tv              Downloading: Only Connect S17E03 480p x264-mSD
+2021-11-15 19:34:15 INFO     download      tv              Downloading: Only Connect S17E04 480p x264-mSD
+2021-11-15 19:34:15 INFO     download      tv              Downloading: Only Connect S17E06 480p x264-mSD
+2021-11-15 19:34:15 INFO     download      tv              Downloading: Only Connect S17E05 480p x264-mSD
+2021-11-15 19:34:15 VERBOSE  details       tv              Summary - Accepted: 18 (Rejected: 0 Undecided: 82 Failed: 0)
+2021-11-15 19:38:25 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:38:25 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E13 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E13 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E14 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E14 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E15 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E15 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E16 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E16 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E18 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E18 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E17 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E17 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E09 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E09 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E10 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E10 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E11 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E11 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E12 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E12 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E08 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E08 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E07 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E07 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E01 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E01 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E02 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E02 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E03 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E03 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E04 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E04 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E06 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E06 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  task          tv              REJECTED: `Only Connect S17E05 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E05 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:38:25 VERBOSE  details       tv              Summary - Accepted: 0 (Rejected: 18 Undecided: 82 Failed: 0)
+2021-11-15 19:40:54 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:40:54 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E13 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E13 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E14 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E14 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E15 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E15 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E16 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E16 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E18 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E18 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E17 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E17 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E09 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E09 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E10 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E10 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E11 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E11 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E12 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E12 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E08 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E08 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E07 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E07 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E01 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E01 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E02 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E02 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E03 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E03 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E04 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E04 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E06 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E06 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  task          tv              REJECTED: `Only Connect S17E05 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E05 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:40:54 VERBOSE  details       tv              Summary - Accepted: 0 (Rejected: 18 Undecided: 82 Failed: 0)
+2021-11-15 19:41:01 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:41:02 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E13 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E13 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E14 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E14 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E15 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E15 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E16 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E16 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E18 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E18 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E17 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E17 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E09 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E09 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E10 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E10 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E11 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E11 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E12 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E12 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E08 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E08 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E07 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E07 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E01 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E01 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E02 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E02 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E03 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E03 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E04 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E04 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E06 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E06 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  task          tv              REJECTED: `Only Connect S17E05 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E05 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:41:02 VERBOSE  details       tv              Summary - Accepted: 0 (Rejected: 18 Undecided: 82 Failed: 0)
+2021-11-15 19:42:31 VERBOSE  task_queue                    There are 1 tasks to execute. Shutdown will commence when they have completed.
+2021-11-15 19:42:31 VERBOSE  details       tv              Produced 100 entries.
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E13 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E13 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E14 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E14 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E15 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E15 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E16 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E16 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E18 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E18 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E17 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E17 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E09 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E09 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E10 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E10 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E11 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E11 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E12 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E12 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E08 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E08 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E07 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E07 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E01 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E01 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E02 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E02 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E03 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E03 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E04 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E04 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E06 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E06 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  task          tv              REJECTED: `Only Connect S17E05 480p x264-mSD` by seen plugin because entry with title `Only Connect S17E05 480p x264-mSD` is already marked seen in the task tv at 2021-11-15 19:34
+2021-11-15 19:42:31 VERBOSE  details       tv              Summary - Accepted: 0 (Rejected: 18 Undecided: 82 Failed: 0)
